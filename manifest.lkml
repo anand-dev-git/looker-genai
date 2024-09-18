@@ -17,6 +17,6 @@ application: looker-gen-ai {
 }
 
 constant: CONNECTION_NAME {
-  value: ""
+  value: "brio-cortex-sap"
   export: override_optional
 }
